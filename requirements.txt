@@ -19,7 +19,7 @@ omegaconf==2.3.0
 onnxruntime-gpu==1.16.0; sys_platform == 'linux'
 onnxruntime==1.16.0; sys_platform == 'darwin' or sys_platform == 'windows'
 openai-whisper==20231117
-protobuf==3.20.3
+protobuf==4.21.6
 pydantic==2.7.0
 rich==13.7.1
 soundfile==0.12.1
